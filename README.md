@@ -66,6 +66,7 @@ cd BugHunter
 Run the installation script:
 
 chmod +x install.sh
+
 ./install.sh
 
 This will install all required dependencies.
