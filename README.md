@@ -57,7 +57,7 @@ The tool internally uses the following security tools:
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/BugHunter.git
+git clone https://github.com/rakshacyberforce/BugHunter.git
 
 Move into the project directory:
 
